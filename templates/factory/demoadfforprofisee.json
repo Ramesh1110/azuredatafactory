@@ -1,0 +1,9 @@
+{
+	"name": "demoadfforprofisee",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5bfc47bf-8b31-4350-b027-35b9c5f41fee",
+		"tenantId": "0dd98c7e-0a9c-463e-af8c-159209d8a1e2"
+	}
+}
